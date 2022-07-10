@@ -1,7 +1,7 @@
 package Interface_Comparable;
 /**
  * Интерфейс Comparator используется для сравнения объектов, используя неестественный порядок и так же имеет один метод который нужно переопределять
- * int compare (Element e1, Element e2)
+ * int compare (Element e1, Element e2в)
  */
 import java.util.ArrayList;
 import java.util.Collections;
