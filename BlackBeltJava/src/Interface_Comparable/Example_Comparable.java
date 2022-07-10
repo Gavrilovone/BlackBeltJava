@@ -49,6 +49,10 @@ class Employee implements Comparable<Employee>{
     @Override
     public int compareTo(Employee anotherEmp) {
        if(this.id == anotherEmp.id){ // допустим мы решили сравнивать по id
+           /**
+            *  очень рекомендуется, но не является обязятельным тот факт, что если при таком сравнении return 0 то-есть объекты равны, то и чтобы
+            * метод equals для этих двух объектов так же возвращал true
+            */
            return 0;
        } else if(this.id < anotherEmp.id){
            return -1;
