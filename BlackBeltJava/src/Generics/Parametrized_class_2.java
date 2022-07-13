@@ -1,7 +1,7 @@
 
 package Generics;
 
-public class Parametrized_2 {
+public class Parametrized_class_2 {
     public static void main(String[] args) {
        Pair<String, Integer> pair1 = new Pair<>("Привет", 100);
         System.out.println("Значение пары: value = " + pair1.getFirstValue() + ", value2 = " + pair1.getSecondValue()); // Значение пары: value = Привет, value2 = 100
