@@ -3,8 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Generics/Parametrized_class.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Generics/Parametrized_2.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Generics/game/Student.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Generics/game/Team.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Generics/game/Participant.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Generics/game/Employee.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Generics/game/Schooler.java</file>
         </group>
     </open-files>
 </project-private>
