@@ -28,7 +28,11 @@ public class Team<T extends Participant> {
     }
     
    
-    public void playWith(Team team){
+    public void playWith(Team<T> team){
+        /**
+         * если не указать <T> то школьники смогут играть и со студентами и с работниками, а так мы говорим, что Команда может играть только с командой
+         * какой является сама
+         */
         String winnerName; 
         
         Random random = new Random();

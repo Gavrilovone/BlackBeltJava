@@ -34,7 +34,7 @@ public class Test {
         employeeTeam.addNewParticipant(employee2);
         
         schoolarTeam.playWith(schoolarTeam2);
-       
+        
         /**
          *  В команду Драконы Был добавлен новый участник по имени Иван
             В команду Драконы Был добавлен новый участник по имени Мария

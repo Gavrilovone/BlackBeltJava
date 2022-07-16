@@ -2,7 +2,7 @@
  * Generics introduction(Дженерики введение)
  * Зачем нужны generics:
  * 2 основные причины существования дженериков это:
- * - Type save
+ * - Type safe
  * - Reusable code 
  */
 package Generics;
