@@ -3,10 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Collection/Methods_ArrayList/ArrayList_method_remove_obj.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Collection/Methods_ArrayList/ArrayList_method_set.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Collection/Methods_ArrayList/ArrayList_method_get.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Collection/Methods_ArrayList/ArrayList_method_remove.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Collection/Methods_ArrayList/ArrayList_method_subList.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Collection/Methods_ArrayList/ArrayList_method_removeAll.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Collection/Methods_ArrayList/ArrayList_method_List_of.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Collection/Methods_ArrayList/ArrayList_method_toArray.java</file>
         </group>
     </open-files>
 </project-private>
