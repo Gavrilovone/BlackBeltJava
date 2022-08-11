@@ -1,5 +1,5 @@
 
-package LinkedHashSet;
+package Collection.LinkedHashSet;
 
 import java.util.LinkedHashSet;
 

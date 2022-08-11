@@ -1,5 +1,5 @@
 
-package Interface_Queue;
+package Collection.Interface_Queue;
 
 import java.util.LinkedList;
 import java.util.Queue;
