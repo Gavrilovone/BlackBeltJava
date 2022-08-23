@@ -3,12 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/LambdaExpressions/Part_1/Example.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/LambdaExpressions/Part_1/Example2.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/LambdaExpressions/Part_1/StudentInfo_1.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/LambdaExpressions/Part_1/Lambda.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/LambdaExpressions/Part_1/StudentInfo_2.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/LambdaExpressions/Part_1/Student.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/LambdaExpressions/Function/StudentInfo.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/LambdaExpressions/Function/Student.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/LambdaExpressions/Predicate/StudentInfo_2.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/LambdaExpressions/Function/Inteface_Function.java</file>
         </group>
     </open-files>
 </project-private>
