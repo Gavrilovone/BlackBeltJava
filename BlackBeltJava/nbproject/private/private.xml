@@ -3,10 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Stream_Intro/Method_map.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Stream/Method_forEach/Method_forEach.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Stream/Method_filter/Student.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Stream/Method_filter/Method_filter.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Stream/Method_count/Method_count.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Stream/Method_peek/</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Stream/Method_peek/Method_peek.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Stream/Method_distinct/Method_distinct.java</file>
         </group>
     </open-files>
 </project-private>
