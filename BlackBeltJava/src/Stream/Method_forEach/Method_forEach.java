@@ -19,7 +19,7 @@ public class Method_forEach {
          */
         Arrays.stream(array).forEach(el -> System.out.println(el));
         /**
-         * это напиание можно сократить:
+         * это написание можно сократить:
          */
         Arrays.stream(array).forEach(System.out::println); 
         /**
