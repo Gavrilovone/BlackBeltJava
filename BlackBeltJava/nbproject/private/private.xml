@@ -3,12 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/NestedClasses/Aonymous_classes/</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading_Interruption_threads/InterruptionEx.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading_Daemon/Daeman.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading_Thread_poll_and_ExecutorService_part1/Thread_pool.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading_Interfaces_Callable_and_Future/CallableExample.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading_Interfaces_Callable_and_Future/CallableFactorial.java</file>
             <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading_Thread_poll_and_ExecutorService_part2/Method_scheduleWithFixedDelay.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading_Thread_poll_and_ExecutorService_part2/Method_scheduleAtFixedRate.java</file>
         </group>
     </open-files>
 </project-private>
