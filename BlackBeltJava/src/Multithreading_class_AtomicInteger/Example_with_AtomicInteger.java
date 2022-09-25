@@ -46,6 +46,8 @@ class MyRunnableImp2 implements Runnable {
  * 
  * decrimentAndGet - уменьшает на 1 и возвращает
  * getAndDecrement - возвращает старое значение , потом меньшает на 1
+ * 
+ * по аналогии есть AtomicLong, AtomocBoolean и тд
  */
 
 

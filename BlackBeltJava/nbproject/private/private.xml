@@ -3,10 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading_class_AtomicInteger/Example.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading__Synchronizer_Exchanger/ExchangerExample.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading_CopyOnWriteArrayList/CopyOnWriteArrayListEx.java</file>
             <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading_class_AtomicInteger/Example_with_AtomicInteger.java</file>
-            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading_Thread_poll_and_ExecutorService_part2/Method_scheduleWithFixedDelay.java</file>
+            <file>file:/D:/JavaPro/Course2/BlackBeltJava/src/Multithreading_ConcurrentHashMap/ConcurrentHashMapEx.java</file>
         </group>
     </open-files>
 </project-private>
