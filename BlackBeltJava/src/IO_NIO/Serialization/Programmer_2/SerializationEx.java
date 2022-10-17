@@ -1,5 +1,5 @@
 
-package Multithreading.Serialization.Programmer_2;
+package IO_NIO.Serialization.Programmer_2;
 
 import java.io.*;
 import java.util.ArrayList;

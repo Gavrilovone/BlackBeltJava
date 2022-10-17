@@ -1,5 +1,5 @@
 
-package Multithreading.Serialization.Programmer1;
+package IO_NIO.Serialization.Programmer1;
 
 import java.io.Serializable;
 

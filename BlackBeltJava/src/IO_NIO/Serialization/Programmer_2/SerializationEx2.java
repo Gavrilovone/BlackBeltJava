@@ -1,7 +1,7 @@
 
-package Multithreading.Serialization.Programmer_2;
+package IO_NIO.Serialization.Programmer_2;
 
-import Multithreading.Serialization.Programmer1.Employee;
+import IO_NIO.Serialization.Programmer1.Employee;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
